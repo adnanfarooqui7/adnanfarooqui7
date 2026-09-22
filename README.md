@@ -6,6 +6,6 @@ What I'm working on:
 - Head of Development (contract) at Dot Fun. On Iris, their AI voice-receptionist product, I work across Next.js, Supabase and the ElevenLabs API. The last backend piece I shipped was failed-call analytics: a new table under row-level security, webhook upserts that self-heal on replay, and 33 pgTAP assertions plus 42 Playwright specs behind it.
 - Founder of [Vestaso](https://vestaso.co), a small design and engineering studio. Shopify and Webflow builds for clients in the US, Australia, Qatar and India.
 
-Most of my work lives in private and client repos, so there's not much public here yet. [One line on what's going up first, once it's actually up.]
+Most of my work lives in private and client repos, so the graph shows the activity but not the code.
 
 adnan@vestaso.co · [LinkedIn](https://linkedin.com/in/adnanfarooqui7)
